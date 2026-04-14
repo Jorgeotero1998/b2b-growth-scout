@@ -1,0 +1,7 @@
+﻿venv/
+__pycache__/
+*.csv
+*.log
+.env
+error_debug.png
+.vscode/
